@@ -1,0 +1,5 @@
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.csproj.AssemblyReference.cache
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.AssemblyInfoInputs.cache
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.AssemblyInfo.cs
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.csproj.CoreCompileInputs.cache
