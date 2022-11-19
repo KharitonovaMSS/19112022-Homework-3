@@ -2,6 +2,7 @@
 
 Console.WriteLine("Введите пятизначное число: ");
 var num = Convert.ToInt32(Console.ReadLine());
+num.Length = 5;
 
 if(num[0] == num[4] && num[1] == num[3])
 {
