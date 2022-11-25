@@ -2,13 +2,16 @@
 
 Console.WriteLine("Введите пятизначное число: ");
 var num = Convert.ToInt32(Console.ReadLine());
-num.Length = 5;
+var num1 = (num % 10);
+var num2 = ((num % 100) / 10);
+var num4 = ((num % 10000) / 1000);
+var num5 = (num / 10000);
 
-if(num[0] == num[4] && num[1] == num[3])
+if (num1 == num5 && num2 == num4)
 {
-    Console.WriteLine("Паллиандр");
+    Console.WriteLine("Число является паллиндромом");
 }
 else
 {
-    Console.WriteLine("Нет");
+    Console.WriteLine("Число не является паллиндромом");
 }

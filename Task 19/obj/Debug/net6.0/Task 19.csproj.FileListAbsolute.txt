@@ -3,3 +3,13 @@ C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.Gen
 C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.AssemblyInfoInputs.cache
 C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.AssemblyInfo.cs
 C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.csproj.CoreCompileInputs.cache
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\bin\Debug\net6.0\Task 19.exe
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\bin\Debug\net6.0\Task 19.deps.json
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\bin\Debug\net6.0\Task 19.runtimeconfig.json
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\bin\Debug\net6.0\Task 19.dll
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\bin\Debug\net6.0\Task 19.pdb
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.dll
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\refint\Task 19.dll
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.pdb
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\Task 19.genruntimeconfig.cache
+C:\git ed\Homework CS 3\19112022-Homework-3\Task 19\obj\Debug\net6.0\ref\Task 19.dll
